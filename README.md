@@ -1,7 +1,7 @@
 # vue-simple-shopping-cart
 vss-cart it's a small core for your website. You can use it like regular JavaScript and jQuery. Your website should be to create along with Vue. Just try it!
 # Demo
-http://plnkr.co/edit/FOEcRMWUDBvLk06Jdxqa?p=preview
+http://plnkr.co/FOEcRMWUDBvLk06Jdxqa
 # Features
 1) Reactivity
 
